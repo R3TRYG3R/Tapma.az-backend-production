@@ -84,4 +84,6 @@ This project reflects strong attention to code quality, structure, and visual cl
 
 ---
 
-> © 2025 Tapma.az — Minimalist Marketplace Backend
+## ⭐️ Feedback
+
+If you like the project, feel free to ⭐️ the repo and share your thoughts!
