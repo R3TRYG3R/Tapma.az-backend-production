@@ -14,7 +14,7 @@ async function bootstrap() {
 
   const configService = app.get(ConfigService);
 
-  const clientUrl = configService.get<string>('CLIENT_URL') || 'http://localhost:5173';
+  const clientUrl = configService.get<string>('CLIENT_URL') || 'http://localhost:5173'; //production
   const credentials = configService.get<boolean>('CORS_CREDENTIALS') ?? true;
   const port = configService.get<number>('PORT') || 3000;
 
