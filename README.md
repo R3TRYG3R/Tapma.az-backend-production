@@ -77,4 +77,11 @@ src/
 
 ---
 
+## 🧠 Author
+
+Developed by [Ayxan Abbasov](https://www.linkedin.com/in/aki22), a full-stack developer and Computer Engineering student at NAA.  
+This project reflects strong attention to code quality, structure, and visual clarity.
+
+---
+
 > © 2025 Tapma.az — Minimalist Marketplace Backend
